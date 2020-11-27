@@ -43,3 +43,5 @@ int main() {
        }
     
 }
+// Time complexity of this equation is θ(n).
+// Auxilary space of this equation is θ(1).
